@@ -1,4 +1,4 @@
 # Machine-Learning-Lab
-Name:Navya
+Name:Sidarla Navya
 class:C2
 ID:B200508
